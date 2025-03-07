@@ -1,0 +1,2 @@
+LIST_CONNECTORS = "SELECT * FROM Connectors;"
+INSERT_CONNECTOR = "INSERT INTO Connectors (name) VALUES (%s)"; 
